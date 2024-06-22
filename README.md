@@ -2,7 +2,7 @@
 Ava Dungeon Chest and Boss Checker for Albion Online.
 # Version 2
 ![image](https://github.com/theonlywitcher/Albion-Dungeon-Checker/blob/main/Version%202.0.png)
-![image](https://github.com/theonlywitcher/Albion-Dungeon-Checker/blob/main/checker.mp4)
+![video](https://github.com/theonlywitcher/Albion-Dungeon-Checker/blob/main/checker.mp4)
 # Version 3
 ![image](https://github.com/theonlywitcher/Albion-Dungeon-Checker/blob/main/Version%203.0.png)
 # Usage
