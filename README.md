@@ -7,8 +7,8 @@ Ava Dungeon Chest and Boss Checker for Albion Online.
 # Version 3
 - Checking with oneclick(Faster than V2) show you the bosses and their chests , number of mobs in the dungeon , if there's a second floor , history of your checks of the day <br />
 ![image](https://github.com/theonlywitcher/Albion-Dungeon-Checker/blob/main/Version%203.0.png)<br />
-![Output](https://github.com/theonlywitcher/Albion-Dungeon-Checker/blob/main/V3-putput.png)
-
+![Output](https://github.com/theonlywitcher/Albion-Dungeon-Checker/blob/main/V3-putput.png)<br />
+![History](https://github.com/theonlywitcher/Albion-Dungeon-Checker/blob/main/history.png)
 # Usage
 - Open the Checker
 - Enter any AVA dungeon in game
