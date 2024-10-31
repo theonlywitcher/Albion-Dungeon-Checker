@@ -1,5 +1,5 @@
 # Albion Dungeon Checker/Scanner
-Ava Dungeon Chest and Boss Checker for Albion Online.
+Ava Dungeon Chest and Boss Checker for Albion Online. ( The Checker Working After the last update )
 # Version 2
 - Checking the dungeon with oneclick , it will show you the bosses and their chests in the floor and if there's next floor. <br />
 ![Interface](https://github.com/theonlywitcher/Albion-Dungeon-Checker/blob/main/Version%202.0.png)<br />
